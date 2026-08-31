@@ -6,6 +6,10 @@ A premium, framework-free HTML template for SEO services websites. Built with va
 
 ---
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Live Preview
 
 [View Live Demo](https://tally.so/r/q4q1L9)
